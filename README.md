@@ -3,11 +3,9 @@ For haskell lab assignment testing
 
 Feel free to ask for edit permission if you want to add your tests. Recommended.
 
-Leave your feedback in issues (test confirmation, etc.)
+Leave your feedback in issues section (test confirmation, questions, etc.)
 
 
-Usage:
-
-genAns   -- generaing answers, self-evident, use it to generate your own tests
-
-checkAns -- checking answers, self-evident
+## Usage:
+* genAns   -- generaing answers, self-evident, use it to generate your own tests
+* checkAns -- checking answers, self-evident
