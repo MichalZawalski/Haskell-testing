@@ -7,8 +7,8 @@ Leave your feedback in issues section (test confirmation, questions, etc.)
 
 
 ## Usage:
-* genAns   -- generaing answers, self-evident, use it to generate your own tests
-* checkAns -- checking answers, self-evident
+* genAns (length) (\[]) (regex) (function)   -- generaing answers, use it to generate your own tests
+* checkAns (genAns output) (function) -- checking answers, returns OK if all correct, mismatch test otherwise
 
 ### examples:
 * genAns 2 \[] (Many (Lit A)) accepts
